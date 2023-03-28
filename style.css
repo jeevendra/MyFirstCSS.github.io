@@ -1,0 +1,202 @@
+
+.ho a{
+    text-decoration: none;
+}
+.ho a{
+    color: aliceblue;
+}
+.nav{
+    margin-top: 5px;
+    background-image: linear-gradient(to right,rgb(113, 3, 62),rgb(243, 7, 93));
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 20px;
+   }
+.a{
+    margin-left: 100px;
+    margin-top: 5px;
+   }
+   .nav a:hover{
+    text-decoration: none;
+   color: rgb(27, 196, 230);
+   }
+.b{
+    margin-left: 40px;
+}
+.c{
+    margin-left: 20px;
+}
+.d{
+    margin-left: 30px;
+}
+.e {
+    margin-left: 20px;
+}
+.e a{
+    margin-left: 10px;
+}
+
+
+.cont{
+    text-align: center;
+    margin-top: 40px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    height: 100%;
+}
+.cont h1{
+   margin-top: 50px;
+   margin-bottom: 30px;
+   font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 60px;
+
+}
+.cont p{
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+  font-weight: 20px;
+ }
+.cont1 button{
+    margin-top: 10px;
+}
+.cont1{
+  text-align: center;
+  
+    }
+    .cont1 h6{
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 21px;
+      font-weight: 20px;
+          }
+    .card{
+        margin: 20px;
+        text-align: center;
+    }
+    .crades h1{
+        margin-top: 20px;
+        text-align: center;
+        text-size-adjust: 200px;
+    }
+    
+    .imgall img{
+        width:300px;
+        height: 200px;
+        margin: 1px;
+    }
+    .imgall h1{
+        margin: 50px;
+    }
+    .a{
+        display: flex;
+       
+    }
+    .jj{
+        display: inline-flex;
+    }
+    .box{
+        width: 100%;
+        height:100%;
+        padding: 20px;
+        margin-top: 50px;
+        background-image: url(img1/mans-hands-using-smartphone-on-260nw-1099455569.webp);
+        background-size:cover ;
+        background-attachment: fixed;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 21px;
+      font-weight: 20px;
+
+    }
+   
+    .back h1{
+     color: aliceblue;
+    }
+
+    .back p{
+     color: aliceblue;
+    }
+    .box{
+       margin-top: 30px;
+    }
+    .box iframe{
+        margin-top: 20px;  
+        margin: 10px; 
+        border: 10px solid rgb(251, 247, 247);
+    }
+    .card:hover{
+        transition: all 1.5s ease;
+      transform: scale(1.1);
+     
+    }
+    .newimd{
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        margin-top: 50px;
+        background-image: url(img1/closeup-woman-holding-smartphone-night-city-shopping-street-people-walk_2034-1106.avif);
+        background-size:cover ;
+        background-attachment: fixed;
+    }
+    .newimd h1{
+     color: aliceblue;
+    }
+    .newimd{
+        margin-top: 30px;
+       
+    }
+    .newimd iframe{
+     margin-top: 20px;  
+     margin: 10px; 
+     border: 10px solid rgb(251, 247, 247);
+    }
+    .btns{
+        border-radius: 77px;
+        text-size-adjust: auto;
+        height: 40px;
+        width: 170px;
+    }
+    button{
+    border: none;
+    color: rgb(252, 252, 253);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    color: rgb(252, 252, 253);
+    background-size: 200%;
+    background-image: linear-gradient(to left,rgb(226, 115, 238),rgb(236, 56, 56));
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+      color: rgb(228, 53, 123) !important;
+      border-top: 2px solid rgb(225, 60, 151);
+      border-bottom: 2px solid rgb(218, 75, 149);
+    }
+    .di{
+        margin-top: 20px;
+        display: flex;
+    }
+    .di span{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-weight: 50px;
+      font-size: 25px;
+    }
+    .last{
+        margin-top: 60px;
+    }
+    .last ul a{
+    text-decoration: none;
+    color: black;
+    }
+    .last ul li{
+        list-style-type: none;
+        }
+       
+    .last ul a:hover{
+        color: rgb(201, 56, 165);
+        }
+ 
+    @media screen {
+        
+    }
+  
